@@ -1,0 +1,9 @@
+[package]
+name = "mandelrust"
+version = "0.1.0"
+authors = ["dbrugman <dbrugman72@gmail.com>"]
+
+[dependencies]
+piston_window = "0.54.0"
+image = "0.10.3"
+num = "0.1.36"
